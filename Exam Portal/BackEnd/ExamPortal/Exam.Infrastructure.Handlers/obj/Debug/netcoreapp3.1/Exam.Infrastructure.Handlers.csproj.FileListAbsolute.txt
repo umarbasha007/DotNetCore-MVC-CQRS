@@ -1,0 +1,6 @@
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\Exam.Infrastructure.Handlers\bin\Debug\netcoreapp3.1\ExamPortal.Contracts.Commands.dll
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\Exam.Infrastructure.Handlers\bin\Debug\netcoreapp3.1\ExamPortal.Contracts.Queries.dll
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\Exam.Infrastructure.Handlers\bin\Debug\netcoreapp3.1\ExamPortal.Data.Commom.dll
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\Exam.Infrastructure.Handlers\obj\Debug\netcoreapp3.1\Exam.Infrastructure.Handlers.csprojAssemblyReference.cache
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\Exam.Infrastructure.Handlers\obj\Debug\netcoreapp3.1\Exam.Infrastructure.Handlers.AssemblyInfoInputs.cache
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\Exam.Infrastructure.Handlers\obj\Debug\netcoreapp3.1\Exam.Infrastructure.Handlers.AssemblyInfo.cs

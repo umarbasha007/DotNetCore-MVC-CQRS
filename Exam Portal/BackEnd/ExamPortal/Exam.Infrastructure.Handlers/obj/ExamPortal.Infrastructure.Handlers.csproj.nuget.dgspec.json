@@ -1,0 +1,339 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\Exam.Infrastructure.Handlers\\ExamPortal.Infrastructure.Handlers.csproj": {}
+  },
+  "projects": {
+    "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\Exam.Infrastructure.Handlers\\ExamPortal.Infrastructure.Handlers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\Exam.Infrastructure.Handlers\\ExamPortal.Infrastructure.Handlers.csproj",
+        "projectName": "ExamPortal.Infrastructure.Handlers",
+        "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\Exam.Infrastructure.Handlers\\ExamPortal.Infrastructure.Handlers.csproj",
+        "packagesPath": "C:\\Users\\Tech Monk\\.nuget\\packages\\",
+        "outputPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\Exam.Infrastructure.Handlers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tech Monk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\ExamPortal.Contracts.Commands.csproj": {
+                "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\ExamPortal.Contracts.Commands.csproj"
+              },
+              "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\ExamPortal.Contracts.Queries.csproj": {
+                "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\ExamPortal.Contracts.Queries.csproj"
+              },
+              "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Commom\\ExamPortal.Data.Common.csproj": {
+                "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Commom\\ExamPortal.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "structuremap": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\ExamPortal.Contracts.Commands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\ExamPortal.Contracts.Commands.csproj",
+        "projectName": "ExamPortal.Contracts.Commands",
+        "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\ExamPortal.Contracts.Commands.csproj",
+        "packagesPath": "C:\\Users\\Tech Monk\\.nuget\\packages\\",
+        "outputPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tech Monk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\ExamPortal.Contracts.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\ExamPortal.Contracts.Queries.csproj",
+        "projectName": "ExamPortal.Contracts.Queries",
+        "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\ExamPortal.Contracts.Queries.csproj",
+        "packagesPath": "C:\\Users\\Tech Monk\\.nuget\\packages\\",
+        "outputPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tech Monk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Commom\\ExamPortal.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Commom\\ExamPortal.Data.Common.csproj",
+        "projectName": "ExamPortal.Data.Common",
+        "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Commom\\ExamPortal.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\Tech Monk\\.nuget\\packages\\",
+        "outputPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Commom\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tech Monk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\ExamPortal.Contracts.Commands.csproj": {
+                "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Commands\\ExamPortal.Contracts.Commands.csproj"
+              },
+              "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\ExamPortal.Contracts.Queries.csproj": {
+                "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Contracts.Queries\\ExamPortal.Contracts.Queries.csproj"
+              },
+              "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Models\\ExamPortal.Data.Models.csproj": {
+                "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Models\\ExamPortal.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Models\\ExamPortal.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Models\\ExamPortal.Data.Models.csproj",
+        "projectName": "ExamPortal.Data.Models",
+        "projectPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Models\\ExamPortal.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\Tech Monk\\.nuget\\packages\\",
+        "outputPath": "D:\\Freelance Projects\\Exam Portal\\BackEnd\\ExamPortal\\ExamPortal.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tech Monk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\ExamPortal.Data.Commom\bin\Debug\netcoreapp3.1\ExamPortal.Data.Commom.deps.json
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\ExamPortal.Data.Commom\bin\Debug\netcoreapp3.1\ExamPortal.Data.Commom.dll
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\ExamPortal.Data.Commom\obj\Debug\netcoreapp3.1\ExamPortal.Data.Commom.csprojAssemblyReference.cache
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\ExamPortal.Data.Commom\obj\Debug\netcoreapp3.1\ExamPortal.Data.Commom.AssemblyInfoInputs.cache
+D:\Freelance Projects\Exam Portal\BackEnd\ExamPortal\ExamPortal.Data.Commom\obj\Debug\netcoreapp3.1\ExamPortal.Data.Commom.AssemblyInfo.cs

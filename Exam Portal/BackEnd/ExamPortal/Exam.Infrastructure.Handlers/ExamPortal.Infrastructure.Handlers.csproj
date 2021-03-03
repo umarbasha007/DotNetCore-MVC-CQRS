@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="structuremap" Version="4.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExamPortal.Contracts.Commands\ExamPortal.Contracts.Commands.csproj" />
+    <ProjectReference Include="..\ExamPortal.Contracts.Queries\ExamPortal.Contracts.Queries.csproj" />
+    <ProjectReference Include="..\ExamPortal.Data.Commom\ExamPortal.Data.Common.csproj" />
+  </ItemGroup>
+
+</Project>

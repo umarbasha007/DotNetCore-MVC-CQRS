@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exam.Infrastructure.Handlers\ExamPortal.Infrastructure.Handlers.csproj" />
+    <ProjectReference Include="..\ExamPortal.Contracts.Queries\ExamPortal.Contracts.Queries.csproj" />
+    <ProjectReference Include="..\ExamPortal.Data.Commom\ExamPortal.Data.Common.csproj" />
+  </ItemGroup>
+
+</Project>
